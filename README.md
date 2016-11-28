@@ -11,4 +11,4 @@
 
 1. [Common](/common/common.md)
 1. Platform-specific: 
-    * [iOS](/platform/ios/ios.md)
+    * [iOS](/platform/ios.md)
